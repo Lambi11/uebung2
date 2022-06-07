@@ -11,3 +11,6 @@ print('result')
 result2 = num1 * num3
 
 print('result')
+
+
+print('Hello Fred')
